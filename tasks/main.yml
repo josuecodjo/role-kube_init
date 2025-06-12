@@ -1,5 +1,5 @@
 ---
-- name: AWX
+- name: k8s
   block:
     - block:
         - name: prerequisites.yml
